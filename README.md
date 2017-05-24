@@ -10,8 +10,28 @@ Excel is structured into tables and rows with a maximum row count of 1,048,576 -
 
 However it is very easy to delete or dirty your data in Excel and so you must be very careful when using data and keep a copy of the original so you can retrace your steps is something goes wrong. 
 
-##Overview ##
+## Overview ##
 
 We are going to cover the following material in today's class
 
-* 
+* Excel layout
+* Cleaning up our data
+* Headers
+* Sorting
+* Filtering
+* Calculations 
+* Averages
+* Rates of change
+* Pivot tables
+
+
+## Our data ##
+
+Our data was gathered from the 2015-2013 political donations accounts per member, published by the Standards in Public Office Commission 
+
+## Contact me ##
+
+If you have data troubles or just want to get in touch you can contact me on:
+* karrie.anne.kehoe@gmail.com
+* @karriekehoe
+
